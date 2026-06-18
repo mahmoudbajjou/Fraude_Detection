@@ -1,0 +1,5 @@
+Modèle,AUC-ROC,AUC-PR,F1,Précision,Rappel
+Régression Logistique,1.0,0.999,0.9799,0.9865,0.9733
+Random Forest,1.0,0.9986,0.973,0.9863,0.96
+Reseau de Neurones,0.9999,0.9974,0.9583,1.0,0.92
+Gradient Boosting,0.9933,0.9865,0.9669,0.9605,0.9733
